@@ -18,7 +18,7 @@ setup(
                       "scikit-learn>=0.19.0",
                       "pandas>=0.21.0", 
                       "matplotlib>=2.0.0",
-                      "nltk==3.2.5",
+                      "nltk==3.4.5",
                       "keras==2.1.1",
                       "tensorflow>=1.6.0"],
     test_suite="nose.collector",
